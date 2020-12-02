@@ -1,0 +1,54 @@
+/*
+selector{
+	property:value;
+	p2:value;
+}*/
+
+
+* {
+	text-align: right;
+}
+
+body{
+	background-image: url(https://www.geeklawblog.com/wp-content/uploads/sites/528/2018/12/liprofile-656x369.png);
+	background-size: cover;
+}
+
+h2 p{
+	color:#ffffff;
+}
+h2>p{
+	/*color: red;*/
+	color:#aa4139;
+	text-align: center;
+	/*border: 3px solid purple;*/
+	border: 3px solid rgb(0,0,255,0.5);
+	cursor:pointer;
+}
+
+
+p{
+	color:green;
+}
+
+p{
+	color:green;
+}
+
+li{
+	list-style: none;
+	display:inline-block;
+}
+
+.webtext{
+	border:5px dashed rgba(0,255,0,1);
+}
+.red-text{
+	color:red;
+}
+
+#div1{
+	background: rgba(200,200,0,0.5);
+}
+
+
